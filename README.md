@@ -40,7 +40,3 @@ C++ · Python · ROS 2 · PyTorch · Isaac Lab · MuJoCo
 
 - M.S. in Control Science and Engineering, Sep 2025 - Present
 - B.Eng. in Automation, Sep 2021 - Jun 2025
-
-## Organization Contributions
-
-[![Public organization repositories I have contributed to](assets/organization-contributions.svg)](https://github.com/Luo1imasi?tab=overview)
